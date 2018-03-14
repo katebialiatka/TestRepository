@@ -6,7 +6,7 @@ sample:
   
   generateZip: true
   azureDeploy: /path/to/template.json
-  author: dend
+  author: dend3434
   languages:
   - csharp
   - vbnet
