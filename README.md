@@ -4,7 +4,7 @@ name: 'An Sample'
 description: The Sample that shows how to use .NET Core
 statusNotificationTargets:
 - yura.klyshevich1@gmail.com
-- katia_bieliatko1
+- katia_bieliatko1@mail.ru
 urlFragment: Sample333
 azureDeploy: https://azuretemplate.bing.com/deployments/deploy.json
 languages:
