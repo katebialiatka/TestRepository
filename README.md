@@ -12,7 +12,6 @@ languages:
 - yaml
 products:
 - office
-- office
 extensions:
 - officeDevId: 3bb16609-f17e-4f5c-8a01-16db13c7c98c
 ci:
