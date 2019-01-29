@@ -8,7 +8,7 @@ statusNotificationTargets:
 urlFragment: Sample333
 azureDeploy: https://azuretemplate.bing.com/deployments/deploy.json
 languages:
-- csharp1
+- csharp
 - yaml
 products:
 - office
